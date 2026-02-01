@@ -32,5 +32,5 @@ Os exercícios envolvem conceitos como:
 
 ## Estrutura do repositório
 
-Cada exercício é resolvido em um arquivo separado, seguindo uma numeração sequencial:
+Cada exercício é resolvido em um arquivo separado, seguindo uma numeração sequencial.
 
